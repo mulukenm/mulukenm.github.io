@@ -1,4 +1,4 @@
-## Muluken Muche&rsquo;s website
+## Muluken Muche&rsquo;s personal website
 
 See [mulukenm.github.io](https://mulukenm.github.io).
 
