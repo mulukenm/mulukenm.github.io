@@ -4,7 +4,6 @@ See [mulukenm.github.io](https://mulukenm.github.io).
 
 ---
 
-
 Credits:
 
 	Demo Images:
